@@ -23,13 +23,12 @@ Welcome to my GitHub! I'm a passionate full-stack developer who loves building m
 ### 🗄️ Database
 - 🐬 MySQL
 - 🍃 MongoDB
-- 🧾 Firebase
 
 ### 🧰 Tools & Platforms
 - 🐙 Git & GitHub
 - 🐳 Docker
-- ☁️ Vercel / Netlify / cPanel
-- 📡 Postman / Insomnia
+- ☁️ Vercel / cPanel
+- 📡 Postman 
 - 📦 NPM / Yarn
 - 🌐 REST API / GraphQL
 
