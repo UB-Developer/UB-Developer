@@ -45,6 +45,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer who loves building m
 
 
 - 📧 Email: muhammadumer6372@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/muhammad-umar](https://linkedin.com/in/muhammad-umar-63839b289)
 
 
 
